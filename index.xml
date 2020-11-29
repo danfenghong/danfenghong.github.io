@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yifan Wang - ETH Zurich</title>
-    <link>https://yifita.github.io/</link>
-      <atom:link href="https://yifita.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yifan Wang - ETH Zurich</description>
+    <title>Danfeng Hong - DLR</title>
+    <link>https://danfenghong.github.io/</link>
+      <atom:link href="https://danfenghong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danfeng Hong - DLR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yifita.github.io/img/icon-192.png</url>
-      <title>Yifan Wang - ETH Zurich</title>
-      <link>https://yifita.github.io/</link>
+      <url>https://danfenghong.github.io/img/icon-192.png</url>
+      <title>Danfneg Hong - DLR</title>
+      <link>https://danfenghong.github.io/</link>
     </image>
     
     <item>
       <title>Publications</title>
-      <link>https://yifita.github.io/publication/</link>
+      <link>https://danfenghong.github.io/publication/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://yifita.github.io/publication/</guid>
+      <guid>https://danfenghong.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://yifita.github.io/project/</link>
+      <link>https://danfenghong.github.io/project/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://yifita.github.io/project/</guid>
+      <guid>https://danfenghong.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://yifita.github.io/talk/</link>
+      <link>https://danfenghong.github.io/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>https://yifita.github.io/talk/</guid>
+      <guid>https://danfenghong.github.io/talk/</guid>
       <description></description>
     </item>
     
