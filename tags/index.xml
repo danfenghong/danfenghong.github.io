@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/tags/</link>
+      <atom:link href="https://yifita.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://yifita.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>3D</title>
+      <link>https://yifita.github.io/tags/3d/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://yifita.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deformation</title>
+      <link>https://yifita.github.io/tags/deformation/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/deformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shape modeling</title>
+      <link>https://yifita.github.io/tags/shape-modeling/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/shape-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://yifita.github.io/tags/image/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image processing</title>
+      <link>https://yifita.github.io/tags/image-processing/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super-resolution</title>
+      <link>https://yifita.github.io/tags/super-resolution/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geometry processing</title>
+      <link>https://yifita.github.io/tags/geometry-processing/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/geometry-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>point cloud</title>
+      <link>https://yifita.github.io/tags/point-cloud/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/point-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rendering</title>
+      <link>https://yifita.github.io/tags/rendering/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D</title>
+      <link>https://yifita.github.io/tags/2d/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>action recognition</title>
+      <link>https://yifita.github.io/tags/action-recognition/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/action-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://yifita.github.io/tags/video/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

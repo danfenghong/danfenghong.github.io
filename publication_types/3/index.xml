@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/publication_types/3/</link>
+      <atom:link href="https://yifita.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://yifita.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Neural Cages for Detail-Preserving 3D Deformations</title>
+      <link>https://yifita.github.io/publication/deep_cage/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/deep_cage/</guid>
+      <description>&lt;h3 id=&#34;we-can-warp-an-arbitrary-input-shape-to-match-the-grob-structure-of-an-arbitrary-target-shape-while-__preserving-all-the-local-geometric-details__-the-input-and-target-shape-is-not-required-to-have-dense-correspondences-the-same-topology-or-even-the-same-representation-form-eg-points-mesh-and-2d-image&#34;&gt;We can warp an arbitrary input shape to match the grob structure of an arbitrary target shape, while &lt;strong&gt;preserving all the local geometric details&lt;/strong&gt;. The input and target shape is not required to have dense correspondences, the same topology, or even the same representation form (e.g. points, mesh and 2D image).&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;overview.png&#34; alt=&#34;overview&#34;&gt;
+The key of our method is reducing the degrees of freedom of the deformation space by extending the traditional cage-based deformation technique.&lt;/p&gt;
+&lt;h2 id=&#34;shape-synthesis&#34;&gt;Shape synthesis&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;deformation-transfer&#34;&gt;Deformation transfer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;deformation_transfer.jpg&#34; alt=&#34;dt&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

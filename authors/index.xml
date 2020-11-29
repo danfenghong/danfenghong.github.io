@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/authors/</link>
+      <atom:link href="https://yifita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://yifita.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>NoamAigerman</title>
+      <link>https://yifita.github.io/authors/noamaigerman/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/noamaigerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OlgaSorkine</title>
+      <link>https://yifita.github.io/authors/olgasorkine/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/olgasorkine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SidChaudhuri</title>
+      <link>https://yifita.github.io/authors/sidchaudhuri/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/sidchaudhuri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VovaKim</title>
+      <link>https://yifita.github.io/authors/vovakim/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/vovakim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YifanWang</title>
+      <link>https://yifita.github.io/authors/yifanwang/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/yifanwang/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a third-year PhD student in the &lt;a href=&#34;https://igl.ethz.ch&#34;&gt;&lt;strong&gt;I&lt;/strong&gt;nteractive &lt;strong&gt;G&lt;/strong&gt;eometry &lt;strong&gt;L&lt;/strong&gt;ab&lt;/a&gt; at &lt;a href=&#34;https://www.ethz.ch/&#34;&gt;ETH Zurich&lt;/a&gt; supervised by &lt;a href=&#34;https://igl.ethz.ch/people/sorkine/&#34;&gt;Prof. Olga Sorkine-Hornung&lt;/a&gt;.
+My area of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.
+During my PhD study, I have had the honour to work at the &lt;a href=&#34;http://fve.bfa.edu.cn/English.htm&#34;&gt;Advanced Innovation Center for Future Visual Entertainment (AICFVE)&lt;/a&gt; in Beijing Film Academy, the Imaging and Video group at &lt;a href=&#34;https://studios.disneyresearch.com/&#34;&gt;Disney Research Zurich&lt;/a&gt; and the &lt;a href=&#34;https://research.adobe.com/research/graphics-2d-3d/&#34;&gt;Creative Intelligence Lab at Adobe Research&lt;/a&gt; in Seattle.&lt;/p&gt;
+&lt;p&gt;Born and raised in Beijing, I went to &lt;a href=&#34;https://www.tum.de/startseite/&#34;&gt;Technische Universität München&lt;/a&gt; in Germany for study, where I obtained Bachelor of Science with distinction in &lt;a href=&#34;https://www.ei.tum.de/&#34;&gt;Electrical Engineering and Information Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Afterwards I went to &lt;a href=&#34;https://www.ethz.ch/&#34;&gt;ETH Zurich&lt;/a&gt; in Switzerland, where I completed with the Master program &lt;a href=&#34;https://www.master-robotics.ethz.ch/&#34;&gt;Robotics, Systems and Control&lt;/a&gt; with distinction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AbdelazizDjelouah</title>
+      <link>https://yifita.github.io/authors/abdelazizdjelouah/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/abdelazizdjelouah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChristopherSchroers</title>
+      <link>https://yifita.github.io/authors/christopherschroers/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/christopherschroers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Cornillère</title>
+      <link>https://yifita.github.io/authors/victor-cornill%C3%A8re/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/victor-cornill%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CengizOeztireli</title>
+      <link>https://yifita.github.io/authors/cengizoeztireli/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/cengizoeztireli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felice Serena</title>
+      <link>https://yifita.github.io/authors/felice-serena/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/felice-serena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShihaoWu</title>
+      <link>https://yifita.github.io/authors/shihaowu/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/shihaowu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DanielCohenor</title>
+      <link>https://yifita.github.io/authors/danielcohenor/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/danielcohenor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HuiHuang</title>
+      <link>https://yifita.github.io/authors/huihuang/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/huihuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlexanderHornung</title>
+      <link>https://yifita.github.io/authors/alexanderhornung/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/alexanderhornung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrianMcWilliams</title>
+      <link>https://yifita.github.io/authors/brianmcwilliams/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/brianmcwilliams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FedericoPerazzi</title>
+      <link>https://yifita.github.io/authors/federicoperazzi/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/federicoperazzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JieSong</title>
+      <link>https://yifita.github.io/authors/jiesong/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/jiesong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limin Wang</title>
+      <link>https://yifita.github.io/authors/limin-wang/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/limin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luc Van Gool</title>
+      <link>https://yifita.github.io/authors/luc-van-gool/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/luc-van-gool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OtmarHilliges</title>
+      <link>https://yifita.github.io/authors/otmarhilliges/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/otmarhilliges/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
